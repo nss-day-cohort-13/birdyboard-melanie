@@ -1,16 +1,11 @@
 import unittest
 import birdyboard
+import chirps
 
 class TestBirdyBoard(unittest.TestCase):
 
   @classmethod
   def setUpClass(self):
-    pass
-
-  def test_new_user(self):
-    pass
-
-  def test_select_user(self):
     pass
 
   def test_view_chirps(self):
