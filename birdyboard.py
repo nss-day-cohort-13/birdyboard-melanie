@@ -1,4 +1,4 @@
-class Birdyboard
+class Birdyboard:
 
 
   def show_menu(self):
@@ -16,4 +16,4 @@ class Birdyboard
 
 
 if __name__ == "__main__":
-birdyboard = Birdyboard()
+  birdyboard = Birdyboard()
